@@ -1,0 +1,156 @@
+***********************************************************************************
+*                                                                                 *
+*            Covid Patients Confirmation Data Analysis Management System          *
+*                                                                                 *
+***********************************************************************************
+1.ADMIN
+2.Patients
+***Note: click 1 if admin or 2 if a patient***
+***********************************************************************************
+Enter choice:1
+-------------------------------------------------------------------------------------
+1.Add Patient:
+2.Remove Patient
+3.Display Patients
+4.Exit
+-------------------------------------------------------------------------------------
+Enter choice:3
+    ID           PATIENTS_NAME  MOBILE               EMAIL
+--  ---------  ---------------  -------------------  --------------
+ 1  deepika          683734333  deepika@gmail.com    srivilliputtur
+ 2  bala             685656856  bala1401@gmail.com   banglore
+ 3  uma              978767656  umaneela@gmail.com   coimbatore
+ 4  kali              68585787  kaliammal@gmail.com  srivi
+ 5  Muniyandi         65657878  muniyandi@gmail.com  srivi
+ 6  Raj              876876876  raj0101@gmail.com    virudhunagar
+ 7  raja             876565454  raja43@gmail.com     rajapalayam
+ 8  nandhini         877665644  nandini34@gmail.com  sivakasi
+10  sheela           765765544  sheela@gmail.com     sivapuram
+11  diwana           765655545  diwana@gmail.com     chennai
+12  iliyana           87665545  iliyana@gmail.com    madurai
+Need to AGAIN to ADMIN PROCESS Y/N:y
+-------------------------------------------------------------------------------------
+1.Add Patient:
+2.Remove Patient
+3.Display Patients
+4.Exit
+-------------------------------------------------------------------------------------
+Enter choice:1
+Number of Patients:1
+Enter Name:Shivangi
+Enter Mobile No:854854454
+Enter email:shivangikrish@gmail.com
+Enter Address:chennai
+{'Name': 'Shivangi', 'Mobile': '854854454', 'Email': 'shivangikrish@gmail.com', 'Address': 'chennai'}Patients updated Successfully!
+-------------------------------------------------------------------------------------
+{'Name': 'Shivangi', 'Mobile': '854854454', 'Email': 'shivangikrish@gmail.com', 'Address': 'chennai'}
+Data inserted
+Need to AGAIN to ADMIN PROCESS Y/N:y
+-------------------------------------------------------------------------------------
+1.Add Patient:
+2.Remove Patient
+3.Display Patients
+4.Exit
+-------------------------------------------------------------------------------------
+Enter choice:2
+    ID           PATIENTS_NAME  MOBILE                   EMAIL
+--  ---------  ---------------  -----------------------  --------------
+ 1  deepika          683734333  deepika@gmail.com        srivilliputtur
+ 2  bala             685656856  bala1401@gmail.com       banglore
+ 3  uma              978767656  umaneela@gmail.com       coimbatore
+ 4  kali              68585787  kaliammal@gmail.com      srivi
+ 5  Muniyandi         65657878  muniyandi@gmail.com      srivi
+ 6  Raj              876876876  raj0101@gmail.com        virudhunagar
+ 7  raja             876565454  raja43@gmail.com         rajapalayam
+ 8  nandhini         877665644  nandini34@gmail.com      sivakasi
+10  sheela           765765544  sheela@gmail.com         sivapuram
+11  diwana           765655545  diwana@gmail.com         chennai
+12  iliyana           87665545  iliyana@gmail.com        madurai
+13  Shivangi         854854454  shivangikrish@gmail.com  chennai
+Enter ID to Remove Patient:6
+    ID           PATIENTS_NAME  MOBILE                   EMAIL
+--  ---------  ---------------  -----------------------  --------------
+ 1  deepika          683734333  deepika@gmail.com        srivilliputtur
+ 2  bala             685656856  bala1401@gmail.com       banglore
+ 3  uma              978767656  umaneela@gmail.com       coimbatore
+ 4  kali              68585787  kaliammal@gmail.com      srivi
+ 5  Muniyandi         65657878  muniyandi@gmail.com      srivi
+ 7  raja             876565454  raja43@gmail.com         rajapalayam
+ 8  nandhini         877665644  nandini34@gmail.com      sivakasi
+10  sheela           765765544  sheela@gmail.com         sivapuram
+11  diwana           765655545  diwana@gmail.com         chennai
+12  iliyana           87665545  iliyana@gmail.com        madurai
+13  Shivangi         854854454  shivangikrish@gmail.com  chennai
+-------------------------------------------------------------------------------------
+Need to AGAIN to ADMIN PROCESS Y/N:y
+-------------------------------------------------------------------------------------
+1.Add Patient:
+2.Remove Patient
+3.Display Patients
+4.Exit
+-------------------------------------------------------------------------------------
+Enter choice:4
+Need to AGAIN to ADMIN PROCESS Y/N:n
+DO you need to continue:press y/n:y
+***********************************************************************************
+*                                                                                 *
+*            Covid Patients Confirmation Data Analysis Management System          *
+*                                                                                 *
+***********************************************************************************
+1.ADMIN
+2.Patients
+***Note: click 1 if admin or 2 if a patient***
+***********************************************************************************
+Enter choice:2
+***Patient Checking corona Possibilities***
+Are you feeling Cough?(y/n)...y
+Are you feeling Dry Cough?(y/n)...y
+Are you feeling Throat Pain?(y/n)...y
+Are you feeling High Temperature?(y/n)...y
+Are you feeling sneeze?(y/n)...y
+Are you feel Running nose?(y/n)...y
+Are you feeling weak?(y/n)...y
+Are you feeling Body pain?(y/n)...y
+Are you feeling Difficulty in Breathing?(y/n)...y
+-------------------------------------------------------------------------------------
+You're affected by Covid
+Enter Name:Sunganya
+Enter Mobile No:6858677554
+Enter email:suganya@gmail.com
+Enter Address:srivi
+Data inserted
+{'Name': 'Sunganya', 'Mobile': '6858677554', 'Email': 'suganya@gmail.com', 'Address': 'srivi'}Patients updated Successfully!
+You should take quarantine for 14 days
+-------------------------------------------------------------------------------------
+Active Patients.
+{'Name': 'Sunganya', 'Mobile': '6858677554', 'Email': 'suganya@gmail.com', 'Address': 'srivi'}
+-------------------------------------------------------------------------------------
+Do you need to check again:
+Type y/n:-y
+DO you need to continue:press y/n:y
+***********************************************************************************
+*                                                                                 *
+*            Covid Patients Confirmation Data Analysis Management System          *
+*                                                                                 *
+***********************************************************************************
+1.ADMIN
+2.Patients
+***Note: click 1 if admin or 2 if a patient***
+***********************************************************************************
+Enter choice:2
+***Patient Checking corona Possibilities***
+Are you feeling Cough?(y/n)...y
+Are you feeling Dry Cough?(y/n)...n
+Are you feeling Throat Pain?(y/n)...y
+Are you feeling High Temperature?(y/n)...y
+Are you feeling sneeze?(y/n)...y
+Are you feel Running nose?(y/n)...y
+Are you feeling weak?(y/n)...y
+Are you feeling Body pain?(y/n)...y
+Are you feeling Difficulty in Breathing?(y/n)...n
+-------------------------------------------------------------------------------------
+It's just a Common cold take some Rest
+-------------------------------------------------------------------------------------
+Do you need to check again:
+Type y/n:-n
+DO you need to continue:press y/n:n

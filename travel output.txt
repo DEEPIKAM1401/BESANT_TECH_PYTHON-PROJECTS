@@ -1,0 +1,156 @@
+# OUTPUT:--
+
+#  e:/PYTHON_PROJ/TRAVEL/taravelagency.py
+# ***********************************************************************************
+# *                                                                                 *
+# *                         DP TRAVEL AGENCY TO EXPLORE WORLD                       *
+# *                                                                                 *
+# ***********************************************************************************
+# 1.Munnar
+# 2.A Glimpse Of North Vietnam
+# 3.Delhi Kullu Manali
+# ----------------------------------------------------------------------------------
+# To view Details:--
+# Enter choice:1
+# ***********************************************************************************
+# Munnar 03 Days2 Nights/ 3 Days
+# ***********************************************************************************
+# PLACES:-
+# Day 1 - Cochin to Munnar -140KM 4Hrs Drive
+# Day 2 - At Munnar
+# Day 3 - Drop at Cochin
+# Hotel : Nishkara HOTEL
+# PACKAGE:10000
+# ***********************************************************************************
+# Do you want to continue type y/n:n
+# Do you Need to continue visit places:
+# Type y/n:y
+# For signup:-
+# ----------------------------------------------------------------------------------
+#  FOR SIGNUP:-
+# ----------------------------------------------------------------------------------
+# Enter Name:f
+# Enter Mobile Number:f
+# Enter Mail-ID:f
+# ----------------------------------------------------------------------------------
+# {'name': 'f', 'mob': 'f', 'mail': 'f'}
+# User Registeration success
+# Do you Need to continue Payment:
+# Type y/n:y
+# Payment:-
+# ***********************************************************************************
+# *                                                                                 *
+# *                         DP TRAVEL AGENCY TO EXPLORE WORLD                       *
+# *                                                                                 *
+# ***********************************************************************************
+# 1.Munnar
+# 2.A Glimpse Of North Vietnam
+# 3.Delhi Kullu Manali
+# ----------------------------------------------------------------------------------
+# Choose place For continue payament:
+# Enter choice:2
+# Enter number of Persons:34
+# Total amount:578000
+# {'name': 'f', 'mob': 'f', 'mail': 'f', 'place': 'vietnam', 'amount': 578000}
+# ----------------------------------------------------------------------------------
+# *                                HAPPY JOURNEY                                    *
+# ----------------------------------------------------------------------------------
+# PS E:\PYTHON_PROJ> & C:/Users/Deepika/AppData/Local/Programs/Python/Python38-32/python.exe e:/PYTHON_PROJ/TRAVEL/taravelagency.py
+# ***********************************************************************************
+# *                                                                                 *
+# *                         DP TRAVEL AGENCY TO EXPLORE WORLD                       *
+# *                                                                                 *
+# ***********************************************************************************
+# 1.Munnar
+# 2.A Glimpse Of North Vietnam
+# 3.Delhi Kullu Manali
+# ----------------------------------------------------------------------------------
+# To view Details:--
+# Enter choice:1
+# ***********************************************************************************
+# Munnar 03 Days2 Nights/ 3 Days
+# ***********************************************************************************
+# PLACES:-
+# Day 1 - Cochin to Munnar -140KM 4Hrs Drive
+# Day 2 - At Munnar
+# Day 3 - Drop at Cochin
+# Hotel : Nishkara HOTEL
+# PACKAGE:10000
+# ***********************************************************************************
+# Do you want to continue type y/n:y
+# ***********************************************************************************
+# *                                                                                 *
+# *                         DP TRAVEL AGENCY TO EXPLORE WORLD                       *
+# *                                                                                 *
+# ***********************************************************************************
+# 1.Munnar
+# 2.A Glimpse Of North Vietnam
+# 3.Delhi Kullu Manali
+# ----------------------------------------------------------------------------------
+# To view Details:--
+# Enter choice:2
+# ***********************************************************************************
+# A Glimpse Of North Vietnam 3 Days
+# ***********************************************************************************
+# PLACES:-
+# Day 1 - ARRIVAL
+# Day 2 - Ha Noi city tour full day
+# Day 3 - Hanoi to Ha Long
+# Hotel : North Vietnam Barbara HOTEL
+# PACKAGE:17000
+# ***********************************************************************************
+# Do you want to explore more places type y/n:y
+# ***********************************************************************************
+# *                                                                                 *
+# *                         DP TRAVEL AGENCY TO EXPLORE WORLD                       *
+# *                                                                                 *
+# ***********************************************************************************
+# 1.Munnar
+# 2.A Glimpse Of North Vietnam
+# 3.Delhi Kullu Manali
+# ----------------------------------------------------------------------------------
+# To view Details:--
+# Enter choice:3
+# ***********************************************************************************
+# Delhi Kullu Manali-03 Days
+# ***********************************************************************************
+# PLACES:-
+# Day 1 - Delhi - Manali
+# Day 2 - Manali Local Sightseeing
+# Day 3 - Manali
+# Hotel : Kullu Manali zebran HOTEL
+# PACKAGE:12000
+# ***********************************************************************************
+# Do you want to explore more places type y/n:n
+# Do you Need to continue visit places:
+# Type y/n:y
+# For signup:-
+# ----------------------------------------------------------------------------------
+#  FOR SIGNUP:-
+# ----------------------------------------------------------------------------------
+# Enter Name:Deepika
+# Enter Mobile Number:744478328
+# Enter Mail-ID:deepika@gmail.com
+# ----------------------------------------------------------------------------------
+# {'name': 'Deepika', 'mob': '744478328', 'mail': 'deepika@gmail.com'}
+# User Registeration success
+# Do you Need to continue Payment:
+# Type y/n:y
+# Payment:-
+# ***********************************************************************************
+# *                                                                                 *
+# *                         DP TRAVEL AGENCY TO EXPLORE WORLD                       *
+# *                                                                                 *
+# ***********************************************************************************
+# 1.Munnar
+# 2.A Glimpse Of North Vietnam
+# 3.Delhi Kullu Manali
+# ----------------------------------------------------------------------------------
+# Choose place For continue payament:
+# Enter choice:2
+# Enter number of Persons:4
+# Total amount:68000
+# {'name': 'Deepika', 'mob': '744478328', 'mail': 'deepika@gmail.com', 'place': 'vietnam', 'amount': 68000}
+# ----------------------------------------------------------------------------------
+# *                                HAPPY JOURNEY                                    *
+# ----------------------------------------------------------------------------------
